@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on Zipdabang Team using Kotlin, Jetpack Compose and MVVM
+
 <!--
 **yaeunjess/yaeunjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
