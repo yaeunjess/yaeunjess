@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Zipdabang Team using Kotlin, Jetpack Compose and MVVM
+🔭 I’m currently working on senier project. It's about the guitar app for the users. It can detect a code and rhythm.
 
 <!--
 **yaeunjess/yaeunjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
