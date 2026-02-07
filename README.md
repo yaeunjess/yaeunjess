@@ -1,7 +1,11 @@
 # header
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c8e0fd&height=200&section=header&text=yaeunjess&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c8e0fd&height=200&section=header&text=yaeunjess&fontSize=24" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact)](https://github.com/yaeunjess/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/yaeunjess">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact" />
+  </a>
+</p>
 
 [![Top Langs](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![Top Langs](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
