@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c8e0fd&height=200&section=header&text=yaeunjess&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c8e0fd&height=200&section=header&text=yaeunjess&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<br />
 
 <p align="center">
   <a href="https://github.com/yaeunjess">
