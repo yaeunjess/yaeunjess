@@ -15,12 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/yaeunjess">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact&theme=flat&count_private=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/yaeunjess">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact&theme=flat&hide_border=true&count_private=true" alt="yaeunjess's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact&theme=dracula&hide_border=false&count_private=true"/>
   </a>
 </p>
 
