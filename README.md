@@ -18,6 +18,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact&theme=flat&count_private=true" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/yaeunjess">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeunjess&layout=compact&theme=flat&hide_border=true&count_private=true" alt="yaeunjess's Top Langs" />
+  </a>
+</p>
 
 <!--
 **yaeunjess/yaeunjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
